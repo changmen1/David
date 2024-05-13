@@ -1,6 +1,7 @@
-# Vuetify (Default)
+# Electron+vite+vue3自己构建的一个客户端项目 Vuetify (Default)
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
+这个项目存在一些问题，主进程没有热更新，可以直接自己下载热更新的插件，或者直接使用Electron-vite脚手架
+因为我主要是系统学习一下Electron所以没有采取Electron-vite的脚手架，里面包含了一些自定义的窗体最小化，最大化，关闭，隐藏系统托盘，置顶等一些功能
 
 ## ❗️ Important Links
 
